@@ -48,17 +48,17 @@ Lesson 1
 					<th>年龄</th>
 				</tr>
 				<tr>
-					<td>白永建</td>
+					<td>王一</td>
 					<td>男</td>
 					<td>22</td>
 				</tr>
 				<tr>
-					<td>梁宇</td>
+					<td>张三</td>
 					<td>男</td>
 					<td>25</td>
 				</tr>
 				<tr>
-					<td>胡日环</td>
+					<td>李四</td>
 					<td>男</td>
 					<td colspan="2">25</td>
 				</tr>
